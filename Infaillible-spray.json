@@ -124,7 +124,7 @@
                 "name": "columnOneAsset",
                 "value": "./MOD-02-A.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "DŁUGOTRWAŁY EFEKT",
                 "properties": {}
               },
               {
@@ -154,7 +154,7 @@
                 "name": "columnTwoAsset",
                 "value": "./MOD-02-B.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "WYGODNA I SZYBKA APLIKACJA",
                 "properties": {}
               },
               {
@@ -184,7 +184,7 @@
                 "name": "columnThreeAsset",
                 "value": "./MOD-02-C.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "Dla wszystkich typów skóry",
                 "properties": {}
               }
             ],
@@ -407,7 +407,7 @@
                 "name": "columnOneAsset",
                 "value": "./MOD-05-A.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "PODKŁAD",
                 "properties": {}
               },
               {
@@ -437,7 +437,7 @@
                 "name": "columnTwoAsset",
                 "value": "./MOD-05-B.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "PODKŁAD W PUDRZE 24H",
                 "properties": {}
               },
               {
@@ -467,7 +467,7 @@
                 "name": "columnThreeAsset",
                 "value": "./MOD-05-C.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "PODKŁAD 32H",
                 "properties": {}
               },
               {
@@ -497,7 +497,7 @@
                 "name": "columnFourAsset",
                 "value": "./MOD-05-D.jpg",
                 "element": "img",
-                "alt": "",
+                "alt": "KOREKTOR INFAILLIBLE",
                 "properties": {}
               }
             ],
