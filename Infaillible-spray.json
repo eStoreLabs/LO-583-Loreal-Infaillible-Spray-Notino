@@ -21,7 +21,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Infaillible Spray",
                 "properties": []
@@ -43,7 +43,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Loreal Paris Infaillible Spray",
                 "properties": []
@@ -122,7 +122,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-02-A.jpg",
+                "value": "MOD-02-A.jpg",
                 "element": "img",
                 "alt": "DŁUGOTRWAŁY EFEKT",
                 "properties": {}
@@ -152,7 +152,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-02-B.jpg",
+                "value": "MOD-02-B.jpg",
                 "element": "img",
                 "alt": "WYGODNA I SZYBKA APLIKACJA",
                 "properties": {}
@@ -182,7 +182,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-02-C.jpg",
+                "value": "MOD-02-C.jpg",
                 "element": "img",
                 "alt": "Dla wszystkich typów skóry",
                 "properties": {}
@@ -270,9 +270,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "Formuła z trwałymi polimerami",
                 "properties": []
               }
             ],
@@ -326,9 +326,9 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
-                "alt": "Wybierz koloryzację",
+                "alt": "GAMA INFAILLIBLE",
                 "properties": []
               }
             ],
@@ -405,7 +405,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-05-A.jpg",
+                "value": "MOD-05-A.jpg",
                 "element": "img",
                 "alt": "PODKŁAD",
                 "properties": {}
@@ -435,7 +435,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-05-B.jpg",
+                "value": "MOD-05-B.jpg",
                 "element": "img",
                 "alt": "PODKŁAD W PUDRZE 24H",
                 "properties": {}
@@ -465,7 +465,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-05-C.jpg",
+                "value": "MOD-05-C.jpg",
                 "element": "img",
                 "alt": "PODKŁAD 32H",
                 "properties": {}
@@ -495,7 +495,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-05-D.jpg",
+                "value": "MOD-05-D.jpg",
                 "element": "img",
                 "alt": "KOREKTOR INFAILLIBLE",
                 "properties": {}
@@ -551,7 +551,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-06.jpg",
+                "value": "MOD-06.jpg",
                 "element": "img",
                 "alt": "Sposób użycia",
                 "properties": []
