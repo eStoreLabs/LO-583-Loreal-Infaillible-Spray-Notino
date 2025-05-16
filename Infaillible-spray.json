@@ -69,12 +69,12 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "normal",
                   "textTransform": "normal",
                   "color": "#000",
-                  "marginTop": "20px",
-                  "marginBottom": "20px",
+                  "marginTop": "40px",
+                  "marginBottom": "60px",
                   "text-align": "center"
                 }
               },
@@ -102,7 +102,7 @@
                 "value": "DŁUGOTRWAŁY EFEKT",
                 "element": "DangerHtml",
                 "properties": {
-                  "marginTop": "0",
+                  "marginTop": "40px",
                   "marginBottom": "0",
                   "fontSize": "1rem",
                   "fontWeight": "bold",
@@ -116,7 +116,7 @@
                 "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -132,7 +132,7 @@
                 "value": "WYGODNA I SZYBKA APLIKACJA",
                 "element": "DangerHtml",
                 "properties": {
-                  "marginTop": "0",
+                  "marginTop": "40px",
                   "marginBottom": "0",
                   "fontSize": "1rem",
                   "fontWeight": "bold",
@@ -146,7 +146,7 @@
                 "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -162,7 +162,7 @@
                 "value": "DLA WSZYSTKICH <br>TYPÓW SKÓRY",
                 "element": "DangerHtml",
                 "properties": {
-                  "marginTop": "0",
+                  "marginTop": "40px",
                   "marginBottom": "0",
                   "fontSize": "1rem",
                   "fontWeight": "bold",
@@ -176,7 +176,7 @@
                 "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -207,7 +207,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "normal",
                   "textTransform": "normal",
                   "color": "#000",
@@ -255,7 +255,7 @@
               },
               {
                 "name": "content",
-                "value": "<ul><li>Dzięki formule z niezwykle <b>trwałymi polimerami</b>, chroni makijaż przed ścieraniem, efektem działania wody, ciepła, potu i sebum, dając <b>trwałość aż do 36h*</b>, niezależnie od sytuacji.</li><li>Nie klei się, pozostawia skórę gładką i przyjemną w dotyku. <b>Niewyczuwalny</b>, porusza się elastycznie razem ze skórą, dając <b>komfort noszenia.</b></li><li><b>Łatwy w aplikacji:</b> dyfuzor zapewnia szeroką i równomierną aplikację produktu. Wystarczą <b>3 sekundy i 1 porcja sprayu</b>, by pokryć całą twarz. Mgiełka z mikro-kropelkami nie pozostawia mokrych śladów i zacieków.</li></ul>",
+                "value": "<ul><li style=\"margin-bottom: 20px;\">Dzięki formule z niezwykle <b>trwałymi polimerami</b>, chroni makijaż przed ścieraniem, efektem działania wody, ciepła, potu i sebum, dając <b>trwałość aż do 36h*</b>, niezależnie od sytuacji.</li><li style=\"margin-bottom: 20px;\">Nie klei się, pozostawia skórę gładką i przyjemną w dotyku. <b>Niewyczuwalny</b>, porusza się elastycznie razem ze skórą, dając <b>komfort noszenia.</b></li><li style=\"margin-bottom: 20px;\"><b>Łatwy w aplikacji:</b> dyfuzor zapewnia szeroką i równomierną aplikację produktu. Wystarczą <b>3 sekundy i 1 porcja sprayu</b>, by pokryć całą twarz. Mgiełka z mikro-kropelkami nie pozostawia mokrych śladów i zacieków.</li></ul>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -264,7 +264,7 @@
                   "color": "#000000",
                   "text-align": "left",
                   "fontStyle": "normal",
-                  "maxWidth": "400px",
+                  "maxWidth": "444px",
                   "padding": "0 16px"
                 }
               },
@@ -321,7 +321,7 @@
                   "text-align": "left",
                   "fontStyle": "normal",
                   "maxWidth": "400px",
-                  "padding": "0 16px"
+                  "paddingLeft": "60px"
                 }
               },
               {
@@ -352,7 +352,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "normal",
                   "textTransform": "normal",
                   "color": "#000",
@@ -382,7 +382,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "PODKŁAD INFAILLIBLE 32H FRESH WEAR",
+                "value": "PODKŁAD INFAILLIBLE 32H FRESH WEAR <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Niezawodny makijaż aż do 32H. Lekka i oddychająca formuła, odporna na ścieranie.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -396,10 +396,10 @@
               },
               {
                 "name": "columnOneText",
-                "value": "Niezawodny makijaż aż do 32H. Lekka i oddychająca formuła, odporna na ścieranie.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -412,7 +412,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "PODKŁAD W PUDRZE INFAILLIBLE 24H",
+                "value": "PODKŁAD W PUDRZE INFAILLIBLE 24H <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Naturalne matowe wykończenie</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -426,10 +426,10 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "Naturalne matowe wykończenie",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -442,7 +442,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "PODKŁAD 32H MATTE COVER",
+                "value": "PODKŁAD 32H MATTE COVER<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Matowy efekt i pełne, długotrwałe krycie do 32h***</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -456,10 +456,10 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "Matowy efekt i pełne, długotrwałe krycie do 32h***",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -472,7 +472,7 @@
               },
               {
                 "name": "columnFourTitle",
-                "value": "KOREKTOR INFAILLIBLE <br>MORE THAN CONCEALER",
+                "value": "KOREKTOR INFAILLIBLE <br>MORE THAN CONCEALER<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Multifunkcyjny korektor. Trwałość <br>i nawilżenie aż do 24h****</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -486,10 +486,10 @@
               },
               {
                 "name": "columnFourText",
-                "value": "Multifunkcyjny korektor. Trwałość <br>i nawilżenie aż do 24h****",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
-                  "fontSize": "15px",
+                  "fontSize": "16px",
                   "textAlign": "center"
                 }
               },
@@ -530,13 +530,13 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
-                  "marginBottom": "100px",
+                  "marginBottom": "60px",
                   "maxWidth": "100%"
                 }
               },
               {
                 "name": "content",
-                "value": "<p>Zamknij oczy i usta. Rozpyl produkt ruchem okrężnym lub zygzakowatym równomiernie na całą twarz z odległości ok. 15-30 cm. W razie potrzeby zetrzyj nadmiar produktu z oczu i ust. Wystarczą 3 sekundy i 1 porcja sprayu by utwalić makijaż aż do 36h*. Odpowiedni dla wszystkich typów skóry.</p>",
+                "value": "<p>Zamknij oczy i usta. Rozpyl produkt ruchem okrężnym lub zygzakowatym równomiernie na całą twarz z odległości ok. 15-30 cm. W razie potrzeby zetrzyj nadmiar produktu z oczu i ust. Wystarczą 3 sekundy i&nbsp;1&nbsp;porcja sprayu by utwalić makijaż aż do 36h*. Odpowiedni dla wszystkich typów skóry.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
