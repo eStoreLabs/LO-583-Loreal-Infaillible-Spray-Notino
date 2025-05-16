@@ -382,7 +382,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "PODKŁAD INFAILLIBLE 32H FRESH WEAR <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Niezawodny makijaż aż do 32H. Lekka i oddychająca formuła, odporna na ścieranie.</p>",
+                "value": "PODKŁAD INFAILLIBLE 32H FRESH WEAR <br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Niezawodny makijaż aż do 32H. Lekka i oddychająca formuła, odporna na ścieranie.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -412,7 +412,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "PODKŁAD W PUDRZE INFAILLIBLE 24H <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Naturalne matowe wykończenie</p>",
+                "value": "PODKŁAD W PUDRZE INFAILLIBLE 24H <br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Naturalne matowe wykończenie</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -442,7 +442,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "PODKŁAD 32H MATTE COVER<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Matowy efekt i pełne, długotrwałe krycie do 32h***</p>",
+                "value": "PODKŁAD 32H MATTE COVER<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Matowy efekt i pełne, długotrwałe krycie do 32h***</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -472,7 +472,7 @@
               },
               {
                 "name": "columnFourTitle",
-                "value": "KOREKTOR INFAILLIBLE <br>MORE THAN CONCEALER<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Multifunkcyjny korektor. Trwałość <br>i nawilżenie aż do 24h****</p>",
+                "value": "KOREKTOR INFAILLIBLE <br>MORE THAN CONCEALER<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Multifunkcyjny korektor. Trwałość <br>i nawilżenie aż do 24h****</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
